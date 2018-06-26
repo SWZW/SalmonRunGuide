@@ -1,4 +1,6 @@
 package com.white_tree.salmonrunguide
 
-class MainFragment {
+import android.support.v4.app.Fragment
+
+class MainFragment: Fragment() {
 }
